@@ -1,0 +1,8 @@
+*.pem
+*.key
+*.jks
+*.keystore
+build/
+orig/
+x/
+__pycache__/
