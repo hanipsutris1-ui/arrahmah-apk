@@ -9,7 +9,7 @@ Aplikasi nota jual-beli kambing dan daging untuk Android (WebView membungkus sat
 ## Isi repo
 - `web/index.html` aplikasi (sumber `assets/index.html` di APK)
 - `tools/` skrip tambal manifest/dex, rakit zip, dan tanda tangan APK v2
-- `releases/` APK siap pasang
+- APK ada di halaman Releases: https://github.com/hanipsutris1-ui/arrahmah-apk/releases
 
 ## Build ulang
 Butuh Python 3 dengan paket `cryptography` dan hasil ekstrak APK dasar di `orig/`.
